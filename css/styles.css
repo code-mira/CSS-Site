@@ -67,10 +67,12 @@ hr{
 .frontend-img{
     float: left;
     padding-right: 30px;
+    width: 20%;
 }
 .backend-img{
     float:right;
     padding-left: 30px;
+    width: 20%;
 }
 .intro-description{
     width: 30%;
